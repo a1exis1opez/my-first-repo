@@ -1,5 +1,5 @@
 # my-first-repo
 This is my first repository
 
-#desktop
+# desktop
 Added the image I use as my background for my desktop
